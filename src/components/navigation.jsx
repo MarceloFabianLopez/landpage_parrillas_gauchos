@@ -19,7 +19,7 @@ export class Navigation extends Component {
               <span className="icon-bar"></span>{" "}
             </button>
             <a className="navbar-brand page-scroll" href="#page-top">
-              React Landing Page
+             Gauchos Artesanía Argentina
             </a>{" "}
           </div>
 
@@ -30,37 +30,37 @@ export class Navigation extends Component {
             <ul className="nav navbar-nav navbar-right">
               <li>
                 <a href="#features" className="page-scroll">
-                  Features
+                  Equipos
                 </a>
               </li>
               <li>
                 <a href="#about" className="page-scroll">
-                  About
+                  Nosotros
                 </a>
               </li>
               <li>
                 <a href="#services" className="page-scroll">
-                  Services
+                  Modos de uso
                 </a>
               </li>
               <li>
                 <a href="#portfolio" className="page-scroll">
-                  Gallery
+                  Gallería
                 </a>
               </li>
               <li>
                 <a href="#testimonials" className="page-scroll">
-                  Testimonials
+                  Testimonios
                 </a>
               </li>
               <li>
                 <a href="#team" className="page-scroll">
-                  Team
+                  Equipo
                 </a>
               </li>
               <li>
                 <a href="#contact" className="page-scroll">
-                  Contact
+                  Contacto
                 </a>
               </li>
             </ul>
